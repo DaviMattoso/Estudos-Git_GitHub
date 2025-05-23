@@ -7,7 +7,8 @@ Repositório destinado à organização dos meus estudos autodidatas sobre Git e
 - Clonagem e criação de repositórios  
 - Uso de *issues*, *forks* e *saved replies*  
 - Trabalhando com *branches* no Git  
-- Introdução à linguagem Markdown  
+- Introdução à linguagem Markdown
+- Hospedagem com GitHubPage
 
 🛠️ Objetivo
 Consolidar o conhecimento sobre controle de versão, facilitar revisões futuras e manter um histórico do progresso. Este repositório pode ser útil para quem também está começando a aprender Git e deseja acompanhar uma jornada de estudos prática e contínua.
