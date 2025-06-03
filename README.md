@@ -10,5 +10,7 @@ Repositório destinado à organização dos meus estudos autodidatas sobre Git e
 - Introdução à linguagem Markdown
 - Hospedagem com GitHubPage
 
+- O idioma do material e do repositório está em português (Brasil), por se tratar de um material de estudo autodidata.
+
 🛠️ Objetivo
 Consolidar o conhecimento sobre controle de versão, facilitar revisões futuras e manter um histórico do progresso. Este repositório pode ser útil para quem também está começando a aprender Git e deseja acompanhar uma jornada de estudos prática e contínua.
